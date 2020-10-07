@@ -2,7 +2,6 @@
 
 ## Back-end
 
-- 자바 ORM 표준 JPA 프로그래밍 - 2019.11
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/seolys/springboot-web)
 - DDD Start! - 2020.5
 - Kotlin in action - 2020.5
@@ -10,8 +9,9 @@
 - 테스트 주도 개발 TDD 실천법과 도구 - 2020.5
 - 테스트 주도 개발 시작하기 - 2020.5
 - 자바로 배우는 리팩토링 입문: 건강한 코드로 소프트웨어 체질을 개선하자! - 2020.5
-- Functional Programming in Java 8 - 2018.6
+- 자바 ORM 표준 JPA 프로그래밍 - 2019.11
 - 자바와 JUnit을 활용한 실용주의 단위 테스트 - 2019.10
+- Functional Programming in Java 8 - 2018.6
 
 ## Front-end
 
@@ -25,9 +25,9 @@
 
 ## Dev-ops
 
-- [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 2020.4](https://github.com/seolys/springboot-k8s-deploy-test)
 - [엘라스틱서치 실무 가이드 - 2020.5](https://github.com/seolys/springboot-postit)
 - 당신이 지금 알아야 할 AWS : 한 번 읽으면 제대로 남는 AWS 클라우드 입문서 - 2020.5
+- [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 2020.4](https://github.com/seolys/springboot-k8s-deploy-test)
 
 ## OOP
 
