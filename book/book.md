@@ -2,7 +2,7 @@
 
 ## Back-end
 
-- [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/seolys/springboot-web)
+- [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 2020.5](https://github.com/seolys/springboot-web)
 - DDD Start! - 2020.5
 - Kotlin in action - 2020.5
 - 테스트 주도 개발로 배우는 객체 지향 설계와 실천 - 2020.5
