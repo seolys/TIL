@@ -15,6 +15,7 @@
 
 ### 2020
 
+- [스프링 핵심 원리 - 기본편 - 2020.10](https://www.inflearn.com/certificate/77759-325969-1772332)
 - [타입스크립트 시작하기 - 2020.9](https://www.inflearn.com/certificate/375898-325872-1759765)
 - [스프링 데이터 JPA - 2020.8](https://www.inflearn.com/certificate/77759-186343-1666377)
 - [견고한 JS 소프트웨어 만들기 - 2020.4](https://www.inflearn.com/certificate/77759-151934-1547882)
