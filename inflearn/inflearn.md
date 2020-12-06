@@ -9,6 +9,10 @@
 - [실전 리액트 프로그래밍 - 2020.10](./contents/frontend/react/practical_programming.md)
 - [타입스크립트 시작하기 - 2020.9](./contents/frontend/typescript/typescript_start.md)
 
+## Dev-ops
+
+- [DevOps : Infrastructure as Code with 테라폼(Terraform) and AWS](https://www.notion.so/seolnavy/Terraform-1ed5ee6f12824643a995799d0fb074a3)
+
 ---
 
 ## Certificate

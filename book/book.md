@@ -1,7 +1,10 @@
 # Book
 
 ## Back-end
-
+- [Practical 모던 자바 - 2020.12](https://github.com/seolys/java-practical)
+    - 읽은부분
+        - 6장. 병렬프로그래밍
+        - 11장 4. 반응형 스트림 Flow API
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 2020.5](https://github.com/seolys/springboot-web)
 - DDD Start! - 2020.5
 - Kotlin in action - 2020.5
@@ -30,7 +33,7 @@
 - [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 2020.4](https://github.com/seolys/springboot-k8s-deploy-test)
 
 ## OOP
-
+- [오브젝트 - 2020.12](https://github.com/seolys/java-book-object)
 - 객체지향의 사실과 오해 - 2020.5
 
 ## ETC
