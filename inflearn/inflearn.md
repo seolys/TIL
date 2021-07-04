@@ -2,6 +2,7 @@
 
 ## Back-end
 
+- [Spring Cloud로 개발하는 마이크로서비스 애플리케이션 - 2021.6](https://www.notion.so/seolnavy/Spring-Cloud-MSA-80e85cf49d8b4d85af62b4e382a9b1f5)
 - [스프링 핵심 원리 기본편 - 2020.10](https://github.com/seolys/java-spring-learn)
 
 ## Front-end
@@ -16,6 +17,10 @@
 ---
 
 ## Certificate
+
+### 2021
+- [Spring Cloud로 개발하는 마이크로서비스 애플리케이션 - 2021.6](https://www.inflearn.com/certificate/77759-326544-2150149)
+
 
 ### 2020
 
