@@ -19,6 +19,7 @@
 ## Certificate
 
 ### 2021
+- [스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 - 2021.9](https://www.inflearn.com/certificate/77759-327260-4445483)
 - [Spring Cloud로 개발하는 마이크로서비스 애플리케이션 - 2021.6](https://www.inflearn.com/certificate/77759-326544-2150149)
 
 
