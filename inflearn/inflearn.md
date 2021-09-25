@@ -1,32 +1,17 @@
 # Inflearn
 
-## Back-end
-
-- [Spring Cloud로 개발하는 마이크로서비스 애플리케이션 - 2021.6](https://www.notion.so/seolnavy/Spring-Cloud-MSA-80e85cf49d8b4d85af62b4e382a9b1f5)
-- [스프링 핵심 원리 기본편 - 2020.10](https://github.com/seolys/java-spring-learn)
-
-## Front-end
-
-- [실전 리액트 프로그래밍 - 2020.10](./contents/frontend/react/practical_programming.md)
-- [타입스크립트 시작하기 - 2020.9](./contents/frontend/typescript/typescript_start.md)
-
-## Dev-ops
-
-- [DevOps : Infrastructure as Code with 테라폼(Terraform) and AWS](https://www.notion.so/seolnavy/Terraform-1ed5ee6f12824643a995799d0fb074a3)
-
----
-
-## Certificate
-
 ### 2021
 - [스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 - 2021.9](https://www.inflearn.com/certificate/77759-327260-4445483)
 - [Spring Cloud로 개발하는 마이크로서비스 애플리케이션 - 2021.6](https://www.inflearn.com/certificate/77759-326544-2150149)
-
+  - [정리](https://www.notion.so/seolnavy/Spring-Cloud-MSA-80e85cf49d8b4d85af62b4e382a9b1f5)
 
 ### 2020
-
+- [DevOps : Infrastructure as Code with 테라폼(Terraform) and AWS - 2020.12](https://www.notion.so/seolnavy/Terraform-1ed5ee6f12824643a995799d0fb074a3)
 - [스프링 핵심 원리 - 기본편 - 2020.10](https://www.inflearn.com/certificate/77759-325969-1772332)
+  - [github](https://github.com/seolys/java-spring-learn)
+- [실전 리액트 프로그래밍 - 2020.10](./contents/frontend/react/practical_programming.md)
 - [타입스크립트 시작하기 - 2020.9](https://www.inflearn.com/certificate/375898-325872-1759765)
+  - [정리](./contents/frontend/typescript/typescript_start.md)
 - [스프링 데이터 JPA - 2020.8](https://www.inflearn.com/certificate/77759-186343-1666377)
 - [견고한 JS 소프트웨어 만들기 - 2020.4](https://www.inflearn.com/certificate/77759-151934-1547882)
 - [정말 쉽게 풀어보는 코딩 테스트 top 기본 문제 (with 자바) - 2020.4](https://www.inflearn.com/certificate/313056-324164-1514273)
