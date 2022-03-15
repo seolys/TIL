@@ -9,3 +9,9 @@
   - NullPointException같은 잡고 싶지않은(잡히지 않아야할) Exception까지 같이 잡힌다. 
 - 원인사슬을 깨지말자. 다른 Exception으로 던질경우, 생성자에 원인이 된 Exception를 꼭 넘기자.
   - Stacktrace를 유지시켜야 한다.
+- 응답값에 Optional을 적극 활용하자.
+  - 값이 무조건이 있는경우에는 Optional이 필요없다.
+  - Optional은 값이 있을수도 있고 없을 수도 있다는 의미를 전달한다.
+- 파라미터에 Optional을 넘기지 말자.
+  - Optional이 아닐경우, 상태가 2개: 널 or 값
+  - Optional일 경우, 상태가 3개: Optional이 null or 빈 Optional or 값이 있는 Optional
